@@ -16,8 +16,8 @@
 ## PROGRAM:
  ```
 Program to implement a class & objects using Java
-Developed by: Navadeep S
-RegisterNumber:  212224230180
+Developed by: Mithun Kumar G
+RegisterNumber:  212224230160
 ```
 
 ## Sourcecode.java:
